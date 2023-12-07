@@ -1,6 +1,6 @@
 ## OLÁ, ME CHAMO LUCAS MENEZES! 🤘
 
-##### Atualmente me encontro cursando a graduação de Sistemas de Informação pelo Instituto Federal Fluminense. Sou apaixonado por tecnologia e estou constantemente estudando ferramentas da área de Desenvolvimento Web.
+#### Atualmente me encontro cursando a graduação de Sistemas de Informação pelo Instituto Federal Fluminense. Sou apaixonado por tecnologia e estou constantemente estudando ferramentas da área de Desenvolvimento Web.
 
 ### Contato:
 
