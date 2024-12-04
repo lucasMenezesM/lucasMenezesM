@@ -2,6 +2,8 @@
 
 Sou apaixonado por desenvolvimento de software, transformando ideias em projetos reais e dando vida a elas por meio de código. Estou sempre buscando aprender e evoluir constantemente nas tecnologias que utilizo.
 
+Mais sobre mim aqui: [Portfólio Pessoal](https://lucas-menezesdev-git-main-lucas-menezes-projects-c1c8709f.vercel.app/)
+
 ---
 
 ## 🚀 Tecnologias e Ferramentas que Utilizo
